@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI Chat Bot**
 
-- 💬 Ask me about **Python , NLP , Machine Learning , MLflow**
+- 💬 Ask me about **Python , NLP , Machine Learning , MLops**
 
 - 📫 How to reach me **sambitbehera2016@gmail.com**
 
